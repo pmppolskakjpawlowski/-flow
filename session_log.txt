@@ -1,0 +1,153 @@
+=== System === 
+
+--- System Info ---
+Snapshot Time: 16.09.2023, 06:39:16 CEST
+Board Name: reks3
+Marketing Name: 
+CpuModel Name: Intel(R) Celeron(R) CPU  N3060  @ 1.60GHz
+Total Memory (kib): 3979160
+Thread Count:  2
+Cpu Max Clock Speed (kHz):  2480000
+Version: 103.14816.0
+Has Battery: true
+
+--- Battery Charge Status ---
+Battery State: kFull
+Power Source: kAc
+Power Time: 
+Current Now (mA): 271
+Chage Now (mAh): 2489
+
+--- Battery Health ---
+Charge Full Now (mAh): 2489
+Charge Full Design (mAh): 4050
+Cycle Count: 350
+Wear Percentage: 61
+
+--- Memory Usage ---
+Total Memory (kib): 3979160
+Available Memory (kib): 984936
+Free Memory (kib): 874856
+
+--- Cpu Usage ---
+Usage User (%): 64
+Usage System (%): 22
+Usage Free (%): 12
+Avg Temp (C): 44
+Current scaled frequency (kHz): 2139250
+
+
+--- Test Routines --- 
+
+No routines of this type were run in the session.
+
+=== Networking === 
+
+--- Network Info ---
+
+Name: NETIASPOT-5GHz-3Zzh
+Type: WiFi
+State: Online
+Active: True
+MAC Address: 88:78:73:24:38:DA
+Signal Strength: 98
+Frequency: 5180
+SSID: NETIASPOT-5GHz-3Zzh
+BSSID: 3C:54:47:8B:98:C0
+Security: PSK (WPA or RSN)
+Gateway: 192.168.100.1
+IP Address: 192.168.100.9
+Name Servers: 192.168.100.1
+Subnet Mask: 255.255.255.0
+
+--- Test Routines --- 
+
+10.09.2023, 20:17:45 - GatewayCanBePinged - Started
+10.09.2023, 20:17:49 - GatewayCanBePinged - Passed
+10.09.2023, 20:17:49 - LanConnectivity - Started
+10.09.2023, 20:17:50 - LanConnectivity - Passed
+10.09.2023, 20:17:50 - ArcPing - Started
+10.09.2023, 20:17:51 - ArcPing - Passed
+10.09.2023, 20:17:51 - DnsResolverPresent - Started
+10.09.2023, 20:17:52 - DnsResolverPresent - Passed
+10.09.2023, 20:17:52 - DnsResolution - Started
+10.09.2023, 20:17:53 - DnsResolution - Passed
+10.09.2023, 20:17:53 - DnsLatency - Started
+10.09.2023, 20:17:54 - DnsLatency - Passed
+10.09.2023, 20:17:54 - ArcDnsResolution - Started
+10.09.2023, 20:17:55 - ArcDnsResolution - Passed
+10.09.2023, 20:17:55 - SignalStrength - Started
+10.09.2023, 20:17:56 - SignalStrength - Passed
+10.09.2023, 20:17:56 - CaptivePortal - Started
+10.09.2023, 20:17:57 - CaptivePortal - Passed
+10.09.2023, 20:17:57 - HasSecureWiFiConnection - Started
+10.09.2023, 20:17:58 - HasSecureWiFiConnection - Passed
+10.09.2023, 20:17:58 - HttpsFirewall - Started
+10.09.2023, 20:18:02 - HttpsFirewall - Passed
+10.09.2023, 20:18:02 - HttpFirewall - Started
+10.09.2023, 20:18:03 - HttpFirewall - Passed
+10.09.2023, 20:18:03 - HttpsLatency - Started
+10.09.2023, 20:18:05 - HttpsLatency - Passed
+10.09.2023, 20:18:05 - ArcHttp - Started
+10.09.2023, 20:18:06 - ArcHttp - Passed
+10.09.2023, 20:29:03 - GatewayCanBePinged - Started
+10.09.2023, 20:29:07 - GatewayCanBePinged - Passed
+10.09.2023, 20:29:07 - LanConnectivity - Started
+10.09.2023, 20:29:08 - LanConnectivity - Passed
+10.09.2023, 20:29:08 - ArcPing - Started
+10.09.2023, 20:29:09 - ArcPing - Passed
+10.09.2023, 20:29:09 - DnsResolverPresent - Started
+10.09.2023, 20:29:10 - DnsResolverPresent - Passed
+10.09.2023, 20:29:10 - DnsResolution - Started
+10.09.2023, 20:29:11 - DnsResolution - Passed
+10.09.2023, 20:29:11 - DnsLatency - Started
+10.09.2023, 20:29:12 - DnsLatency - Passed
+10.09.2023, 20:29:13 - ArcDnsResolution - Started
+10.09.2023, 20:29:14 - ArcDnsResolution - Failed
+10.09.2023, 20:29:14 - SignalStrength - Started
+10.09.2023, 20:29:15 - SignalStrength - Passed
+10.09.2023, 20:29:15 - CaptivePortal - Started
+10.09.2023, 20:29:16 - CaptivePortal - Passed
+10.09.2023, 20:29:16 - HasSecureWiFiConnection - Started
+10.09.2023, 20:29:17 - HasSecureWiFiConnection - Passed
+10.09.2023, 20:29:17 - HttpsFirewall - Started
+10.09.2023, 20:29:20 - HttpsFirewall - Passed
+10.09.2023, 20:29:20 - HttpFirewall - Started
+10.09.2023, 20:29:21 - HttpFirewall - Passed
+10.09.2023, 20:29:21 - HttpsLatency - Started
+10.09.2023, 20:29:22 - HttpsLatency - Passed
+10.09.2023, 20:29:23 - ArcHttp - Started
+10.09.2023, 20:29:24 - ArcHttp - Passed
+16.09.2023, 06:36:57 - GatewayCanBePinged - Started
+16.09.2023, 06:37:01 - GatewayCanBePinged - Passed
+16.09.2023, 06:37:01 - LanConnectivity - Started
+16.09.2023, 06:37:02 - LanConnectivity - Passed
+16.09.2023, 06:37:02 - ArcPing - Started
+16.09.2023, 06:37:03 - ArcPing - Passed
+16.09.2023, 06:37:03 - DnsResolverPresent - Started
+16.09.2023, 06:37:04 - DnsResolverPresent - Passed
+16.09.2023, 06:37:04 - DnsResolution - Started
+16.09.2023, 06:37:05 - DnsResolution - Passed
+16.09.2023, 06:37:05 - DnsLatency - Started
+16.09.2023, 06:37:06 - DnsLatency - Passed
+16.09.2023, 06:37:06 - ArcDnsResolution - Started
+16.09.2023, 06:37:07 - ArcDnsResolution - Passed
+16.09.2023, 06:37:07 - SignalStrength - Started
+16.09.2023, 06:37:08 - SignalStrength - Passed
+16.09.2023, 06:37:08 - CaptivePortal - Started
+16.09.2023, 06:37:09 - CaptivePortal - Passed
+16.09.2023, 06:37:09 - HasSecureWiFiConnection - Started
+16.09.2023, 06:37:10 - HasSecureWiFiConnection - Passed
+16.09.2023, 06:37:10 - HttpsFirewall - Started
+16.09.2023, 06:37:12 - HttpsFirewall - Passed
+16.09.2023, 06:37:12 - HttpFirewall - Started
+16.09.2023, 06:37:13 - HttpFirewall - Passed
+16.09.2023, 06:37:13 - HttpsLatency - Started
+16.09.2023, 06:37:14 - HttpsLatency - Passed
+16.09.2023, 06:37:14 - ArcHttp - Started
+16.09.2023, 06:37:15 - ArcHttp - Passed
+
+--- Network Events ---
+
+10.09.2023, 20:17:45 - WiFi network [88:78:73:24:38:DA] started in state Online
+16.09.2023, 06:36:56 - WiFi network [88:78:73:24:38:DA] started in state Online
